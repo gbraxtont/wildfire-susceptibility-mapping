@@ -2,7 +2,7 @@
 Group 38, Machine Learning 4641
 
 Paper Available At:
-https://jcampbell301.github.io/
+https:gbraxtont.github.io
 
 Make sure all the files are in the same directory when you run.  
 clean.py: processes and cleans data.  
